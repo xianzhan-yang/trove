@@ -1,4 +1,4 @@
-## display a "Today's Tasks" message when logging into a Linux system
+## Display a "Today's Tasks" message when logging into a Linux system
 
 ---
 

@@ -1,4 +1,4 @@
-## Renamed your GitHub remote repository, but local Git repo still points to the old name 
+## Renamed GitHub remote repository, but local Git repo still points to the old name 
 
 ---
 
