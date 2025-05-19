@@ -1,8 +1,8 @@
-# display a "Today's Tasks" message when logging into a Linux system
+## display a "Today's Tasks" message when logging into a Linux system
 
 ---
 
-## ✅ 1. Show tasks on terminal login using ~/.bash_profile or ~/.bashrc
+### ✅ 1. Show tasks on terminal login using ~/.bash_profile or ~/.bashrc
 
 These files are executed when a user logs into the shell:
 Edit your .bash_profile or .bashrc:
@@ -37,7 +37,7 @@ Welcome to the system!
 ```
 This file is static, so it's good for general reminders.
 
-## ✅ 3. Use /etc/profile.d/ for dynamic system-wide scripts (recommended)
+### ✅ 3. Use /etc/profile.d/ for dynamic system-wide scripts (recommended)
 
 Create a script to run on login for all users:
 ```bash
@@ -59,7 +59,7 @@ Create the task file:
 sudo nano /etc/today_tasks.txt
 ```
 
-## 🖥️ Bonus: Show tasks on GUI login (desktop environment)
+### 🖥️ Bonus: Show tasks on GUI login (desktop environment)
 
 If you're using GNOME, KDE, etc., you can display a popup using zenity:
 ```bash

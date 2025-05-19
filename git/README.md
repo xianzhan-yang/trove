@@ -1,8 +1,8 @@
-# Renamed your GitHub remote repository, but local Git repo still points to the old name 
+## Renamed your GitHub remote repository, but local Git repo still points to the old name 
 
 ---
 
-## ✅ How to Fix: Update the Remote URL
+### ✅ How to Fix: Update the Remote URL
 
 1. Check your current remote URL
 ```bash
